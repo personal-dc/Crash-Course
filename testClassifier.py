@@ -56,5 +56,5 @@ print("Classifier's classification error for the test data is: ", 1 - classifier
 print("Classifier's classification accuracy for the test data is: ", classifier.score(x_test, y_test))
 print("Classifier's classification accuracy for the train data is: ", classifier.score(x_train, y_train))
 
-plt.show()
+# plt.show()
 
